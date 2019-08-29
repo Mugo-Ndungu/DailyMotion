@@ -1,0 +1,1 @@
+web: gunicorn dailymotion.wsgi --log-file -
